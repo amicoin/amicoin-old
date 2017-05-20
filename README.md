@@ -4,8 +4,10 @@ AMICoin
 
 What is AMICoin?
 ----------------
-AMICoin is a crypto-currency that has the aim of developing friendly features. The name comes from amigo (Spanish) and 
-ami (French). In a nutshell AMICoin aims to be a user-friendly currency.
+AMICoin is a crypto-currency that has the aim of developing user-friendly features. The name comes from amigo (Spanish) and 
+ami (French). In a nutshell AMICoin aims to be a user-friendly currency. It builds on the existing code-base of Bitcoin and
+newer Zxxxx digital currencies but will be user-focused and hopefully bring crypto-currency to non-technical users...
+
 
 ![Logo](https://github.com/amicoin/amicoin/raw/master/doc/amicoin/smiley.png "Logo")
 
@@ -15,7 +17,7 @@ Security Warnings
 
 See important security warnings in [doc/security-warnings.md](doc/security-warnings.md).
 
-**AMICoin is a work in progress and highly experimental. Use comes at your own risk.**
+**AMICoin is a work in progress and is highly experimental. Use comes at your own risk!**
 
 
 License
