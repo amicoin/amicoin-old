@@ -16,7 +16,6 @@ src/zcash/CreateJoinSplit
 *zcashTest.vk
 
 # autoreconf
-Makefile.in
 aclocal.m4
 autom4te.cache/
 build-aux/config.guess
@@ -74,10 +73,10 @@ src/univalue/gen
 *.la
 
 # Compilation
-Makefile
+#Makefile
 
 # Unit-tests
-Makefile.test
+#Makefile.test
 src/test/buildenv.py
 
 # Resources cpp
