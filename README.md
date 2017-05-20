@@ -1,0 +1,2 @@
+# amicoin
+AMICoin digital currency
