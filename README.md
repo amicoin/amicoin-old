@@ -1,7 +1,6 @@
 AMICoin
 ==============
 
-
 What is AMICoin?
 ----------------
 AMICoin is a crypto-currency that has the aim of developing user-friendly features. The name comes from amigo (Spanish) and 
@@ -10,6 +9,11 @@ is oriented toward bringing crypto-currency to non-technical people (as a long t
 
 
 ![Logo](https://github.com/amicoin/amicoin/raw/master/doc/amicoin/smiley.png "Logo")
+
+AMICoin documentation
+----------------
+The following documents explain technical/usability and other aspects of AMICoin:
+1. [AMICoin Development Goals](doc/amicoin/DevelopmentGoals.md)
 
 
 Security Warnings
