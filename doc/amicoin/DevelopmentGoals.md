@@ -15,7 +15,7 @@ intuitive. It cannot be memorized (for sure) and before sending, one needs to do
 address is the right one. To make it easier for users, we need to make using crypto-currency as 
 easy as using e-mail...
 
-One feature that AMICoin will develop is Friendly Addresses:
+To this end, one feature that AMICoin will develop is "friendly addresses":
 Users who send coins will send them to an address like `joe.smith@abc.com` or just `Joe Smith`. 
 It will be the responsibility of wallet software to translate this to a specific crypto-address
 like `t1dXqTEP1UHvvtBN9JNMG9vDcPAQjU7goAe` but users will not see this. At the same time a global 

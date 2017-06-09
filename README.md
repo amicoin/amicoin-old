@@ -14,13 +14,13 @@ AMICoin documentation
 ----------------
 The following documents explain technical/usability and other aspects of AMICoin:
 1. [AMICoin Development Goals](doc/amicoin/DevelopmentGoals.md)
+2. [Coin Specifications](doc/amicoin/CoinSpecifications.md)
 
 
 Security Warnings
 -----------------
 
 See important security warnings in [doc/security-warnings.md](doc/security-warnings.md).
-
 **AMICoin is a work in progress and is highly experimental. Use comes at your own risk!**
 
 
